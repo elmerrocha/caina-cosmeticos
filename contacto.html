@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Favicon -->
+        <link rel="icon" type="image/png" href="src/images/logo.png">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="src/css/bootstrap.css">
+        <!-- Style CSS-->
+        <link rel="stylesheet" href="src/css/style.css">
+        <!-- Title -->
+        <title>Caina Cosméticos - Contáctanos</title>
+    </head>
+    <body>
+        <header class="caina-header">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light caina-navbar">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="index.html">
+                        <img class="caina-logo" src="src/images/logo.png" alt="Logo">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="productos.html">Productos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="nosotros.html">Quienes somos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" href="mision-vision.html">Misión y Visión</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" href="objetivos.html">Objetivos corporativos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" href="contacto.html">Contáctanos</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <div class="container">
+            <div class="row">
+                <h1>Contáctanos</h1>
+                <form action="index.html" method="POST" id="formulario">
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Nombre</label>
+                        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Nombre Apellido">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Correo electrónico</label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="nombre.apellido@correo.com">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlTextarea1" class="form-label">Detalles</label>
+                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                    </div>
+                    <div class="col mb-3">
+                        <button class="btn btn-primary" type="submit" form="formulario" value="Submit">Enviar</button>
+                    </div>
+                </form>
+            </div>
+            <div class="row">
+                <img src="src/images/eyeshadow.jpg" alt="EyeShadow">
+            </div>
+        </div>
+        <footer class="text-center caina-footer">
+            <h5>www.cainacosmeticos.com</h5>
+        </footer>
+        <!-- Bootstrap JS-->
+        <script src="src/js/bootstrap.bundle.js"></script>
+    </body>
+</html>
