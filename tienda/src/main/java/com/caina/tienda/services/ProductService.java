@@ -25,7 +25,7 @@ public class ProductService {
     }
 
     //DELETE
-    public boolean deleteProduct(Long id) {
+    public boolean deleteProduct(String id) {
         if (productRepository.existsById(id)) {
             productRepository.deleteById(id);
             return true;
@@ -36,7 +36,27 @@ public class ProductService {
     }
 
     //GET by ID
-    public Optional<ProductModel> getProductById(Long id) {
+    public Optional<ProductModel> getProductById(String id) {
         return productRepository.findById(id);
+    }
+
+    //GET by name
+    public ArrayList<ProductModel> getProductByName(String name) {
+        return productRepository.findByName(name);
+    }
+
+    //GET by cost
+    public ArrayList<ProductModel> getProductByCost(Integer cost) {
+        return productRepository.findByCost(cost);
+    }
+
+    //PUT
+    public Boolean updateProduct(String id, ProductModel product) {
+        if (productRepository.existsById(id)) {
+            product.setId(id);
+            productRepository.save(product);
+            return true;
+        }
+        else return false;
     }
 }

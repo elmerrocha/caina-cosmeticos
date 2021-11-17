@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -38,14 +39,41 @@ public class ProductController {
 
     //DELETE
     @DeleteMapping(path = "/{id}")
-    public String deleteProductById(@PathVariable("id") Long id) {
+    public String deleteProductById(@PathVariable("id") String id) {
         if (this.productService.deleteProduct(id)) return "Product with id "+ id +" was removed";
         else return "The product with id "+ id +" don't exist";
     }
 
+    //PUT
+    @PutMapping(path = "/{id}")
+    public String updateProductById(@PathVariable("id") String id, @RequestBody ProductModel product) {
+        if (this.productService.updateProduct(id, product)) return "Product with id "+ id +" was updated";
+        else return "The product with id "+ id +" doesn't exist";
+    }
+
     //GET by ID
     @GetMapping(path = "/{id}")
-    public Optional<ProductModel> getProductById(@PathVariable("id") Long id) {
+    public Optional<ProductModel> getProductById(@PathVariable("id") String id) {
         return this.productService.getProductById(id);
     }
+
+    //GET by name
+    @GetMapping(path = "/name/{name}")
+    public ArrayList<ProductModel> getProductByName(@PathVariable("name") String name) {
+        return this.productService.getProductByName(name);
+    }
+
+    //GET by cost
+    @GetMapping(path = "/cost/{cost}")
+    public ArrayList<ProductModel> getProductByCost(@PathVariable("cost") Integer cost) {
+        return this.productService.getProductByCost(cost);
+    }
+
+
+
+    //Other way
+    // @GetMapping("/cost/")
+    // public ArrayList<ProductModel> getProductByCost(@RequestParam("cost") Integer cost) {
+    //     return this.productService.getProductByCost(cost);
+    // }
 }
