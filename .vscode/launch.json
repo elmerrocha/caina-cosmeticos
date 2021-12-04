@@ -2,12 +2,12 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Spring Boot-TiendaApplication<tienda>",
+            "name": "Spring Boot-ApiTiendaApplication<api_tienda>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
-            "mainClass": "com.caina.tienda.TiendaApplication",
-            "projectName": "tienda",
+            "mainClass": "com.caina.tienda.api_tienda.ApiTiendaApplication",
+            "projectName": "api_tienda",
             "args": ""
         }
     ]
