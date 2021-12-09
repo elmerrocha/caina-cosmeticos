@@ -1,0 +1,24 @@
+:root {
+    --caina-background-color: #EEF7F2;
+}
+.caina-header {
+    border-bottom: 3px double var(--bs-secondary);
+    background-color: var(--caina-background-color) !important;
+}
+.caina-navbar {
+    background-color: var(--caina-background-color) !important;
+}
+.caina-logo {
+    width: 100px;
+}
+.caina-footer {
+    border-top: 3px double var(--bs-secondary);
+    background-color: var(--caina-background-color);
+}
+.caina-container {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.caina-text-justify {
+    text-align: justify;
+}

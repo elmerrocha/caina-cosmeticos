@@ -1,0 +1,397 @@
+[{
+  "_id": {
+    "$oid": "61ae72d58bcb884b7c5cfa37"
+  },
+  "name": "PESTAÑINA M TROPICO ALARGADAS Y CON VOLÚMEN RUBY ROSE",
+  "description": "Fue creada especialmente para definir y alargar las pestañas, con su exclusivo aplicador proporcionará un acabado sorprendente y natural.",
+  "quantity": 25,
+  "price": 15000,
+  "category": "Eyes",
+  "imagepath": "73074s.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae731b8bcb884b7c5cfa38"
+  },
+  "name": "PALETA SOFT NUDE RUBY ROSE",
+  "description": "Tiene 17 tonos con maravillosos tonos nude y rosa, además, 1 primer de ojos, ofreciendote infinitas posibilidades de maquillaje.  Soft Nude es de alta pigmentación, con una textura súper aterciopelada y suave.",
+  "quantity": 40,
+  "price": 40500,
+  "category": "Eyes",
+  "imagepath": "73071g.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7bd18bcb884b7c5cfa39"
+  },
+  "name": "PLUMÓN NEGRO LÍQUIDO RUBY ROSE",
+  "description": "Con la punta súper delgada y modelada, el delineador de ojos en Pluma ayuda a que la línea sea más fácil y delicada",
+  "quantity": 15,
+  "price": 14500,
+  "category": "Eyes",
+  "imagepath": "73071w.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7bf28bcb884b7c5cfa3a"
+  },
+  "name": "PESTAÑINA COLORES SURTIDOS RUBY ROSE",
+  "description": "Desarrollado con una fórmula especial y con un aplicador que permite llegar a todos las pestañas, no se pegan y no forman grumos. Viene en 6 tonos diferente.",
+  "quantity": 21,
+  "price": 15000,
+  "category": "Eyes",
+  "imagepath": "petanina-ruby-rose-enumeradas.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7c378bcb884b7c5cfa3b"
+  },
+  "name": "LAPIZ DELINEADOR SWEET LINER Miis Cosmetics",
+  "description": "Delineador de colores pastel",
+  "quantity": 100,
+  "price": 5600,
+  "category": "Eyes",
+  "imagepath": "26079h.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7d318bcb884b7c5cfa3c"
+  },
+  "name": "GEL VOLUMINIZADOR DE CEJAS FULL BROW RUBY ROSE",
+  "description": "Gel voluminizador de cejas disponible en tonos light, medium y dark",
+  "quantity": 50,
+  "price": 10000,
+  "category": "Eyes",
+  "imagepath": "voluminizador.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7d6a8bcb884b7c5cfa3d"
+  },
+  "name": "BETÚN DE CEJAS CREMOSO LULA",
+  "description": "Betún cremoso en tonos surtidos.",
+  "quantity": 45,
+  "price": 4000,
+  "category": "Eyes",
+  "imagepath": "71077a.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7d948bcb884b7c5cfa3e"
+  },
+  "name": "GEL PARA CEJAS RUBY ROSE",
+  "description": "¡Brow Solution es el producto más nuevo de Ruby Rose para unas cejas perfectas! Rellenará y dibujará las cejas con mayor precisión, dejando las cejas más llenas. Además, tiene una larga duración, secado rápido y excelente pigmentación.",
+  "quantity": 100,
+  "price": 12800,
+  "category": "Eyes",
+  "imagepath": "73074x-1.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7de68bcb884b7c5cfa3f"
+  },
+  "name": "Plumón candy land Miis Cosmetics",
+  "description": "Delineador líquido para ojos de alta precisión, te ayuda a dar mas detalle! Todos son color negro solo cambia la presentación",
+  "quantity": 450,
+  "price": 8000,
+  "category": "Eyes",
+  "imagepath": "26074c.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7dfb8bcb884b7c5cfa40"
+  },
+  "name": "Pestañina BIG EYES a prueba de agua Dolce Bella",
+  "description": "Tiene un cepillo en silicona que alarga las pestañas para definir mejor tus ojos y tener la apariencia más grande. A prueba de agua.",
+  "quantity": 41,
+  "price": 12000,
+  "category": "Eyes",
+  "imagepath": "110743.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7e1c8bcb884b7c5cfa41"
+  },
+  "name": "Delineador perlado unidad Trendy",
+  "description": "Delineador escarchado suave",
+  "quantity": 33,
+  "price": 5000,
+  "category": "Eyes",
+  "imagepath": "4907ae.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7e848bcb884b7c5cfa42"
+  },
+  "name": "KIT DE SOMBRAS RUBY ROSE",
+  "description": "Contine 7 sombras, 5 sombras matte y un primer de ojos",
+  "quantity": 46,
+  "price": 13000,
+  "category": "Eyes",
+  "imagepath": "73075j.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7f3e8bcb884b7c5cfa43"
+  },
+  "name": "BRILLO HIDRATANTE LIP OIL RUBY ROSE",
+  "description": "Lip Oil disponible en 6 versiones, fresa, manzana verde, menta, sandía, uva y naranja, todos con un aroma increíble e irresistible! Peso neto: 3.8ml",
+  "quantity": 14,
+  "price": 9000,
+  "category": "Lips",
+  "imagepath": "730654.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7f5e8bcb884b7c5cfa44"
+  },
+  "name": "Soft Lips Trendy",
+  "description": "Hidratar y reparar tus labios a profundidad pero al mismo tiempo maquillarlo en tonos muy lindos. La duración del color es de 2-4 horas, pero ayudará a mantener tus labios perfectos en todo momento. 9 tonos disponibles que tú escoges. Si quieres llevar la cajita debes comprar 9 unidades",
+  "quantity": 64,
+  "price": 6000,
+  "category": "Lips",
+  "imagepath": "490655.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7fbe8bcb884b7c5cfa45"
+  },
+  "name": "EXFOLIANTE LABIAL 3 SABORES RUBY ROSE",
+  "description": "Exfoliante labial en barra, con un aroma irresistible a MENTA, FRESA O CAFE. Y sabes que es lo mejor de todo? Tiene aceites hidratantes y nutritivos!!",
+  "quantity": 54,
+  "price": 9000,
+  "category": "Lips",
+  "imagepath": "730686.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae7ff48bcb884b7c5cfa46"
+  },
+  "name": "Tinta Helados Ref 7498B Trendy",
+  "description": "Sirven como un complemento perfecto a los looks naturales. Su función es dar coloración ‘rojita natural’ por hasta 6 horas, haciéndolos los favoritos. Sirven como labial o rubor.",
+  "quantity": 45,
+  "price": 8000,
+  "category": "Lips",
+  "imagepath": "490686-1.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae801d8bcb884b7c5cfa47"
+  },
+  "name": "Lip Gloss matte Ani-k",
+  "description": "Completa tu look con estos labiales de larga duración y efecto mate. Son de alta calidad y si textura es suave por lo que tus labios no se resecarán. Todas las tonalidades son preciosas por lo que podrás elegir la que más te guste o adquirirlos todos para crear miles de looks. Su diseño es mediano con tapa dorada pentagonal y aplicador tradicional.",
+  "quantity": 60,
+  "price": 6370,
+  "category": "Lips",
+  "imagepath": "740653-1.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae82e28bcb884b7c5cfa4b"
+  },
+  "name": "LABIALES TRENDY VELVET LIPS UNIDAD LT03 Trendy",
+  "description": "El producto se vende por unidad, si añades 6 labiales se te envía la caja completa",
+  "quantity": 41,
+  "price": 6000,
+  "category": "Lips",
+  "imagepath": "490693.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae83128bcb884b7c5cfa4c"
+  },
+  "name": "LABIAL DUO LIQUIDO Y BARRA RUBY ROSE",
+  "description": "La línea Feels tiene 12 tonos de lápiz labial dúo mate, un lado es mate líquido y el otro también es dulce y mate. Es súper pigmentado, fácil de aplicar durante mucho tiempo y es súper cómodo en los labios.",
+  "quantity": 110,
+  "price": 14700,
+  "category": "Lips",
+  "imagepath": "730687.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae834c8bcb884b7c5cfa4d"
+  },
+  "name": "Tinta de labios y mejillas School collection Trendy",
+  "description": "Su función es dar coloración ‘rojita natural’ por hasta 6 horas, haciéndolos los favoritos.",
+  "quantity": 80,
+  "price": 12000,
+  "category": "Lips",
+  "imagepath": "490690.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae83bc8bcb884b7c5cfa4e"
+  },
+  "name": "POLVO TRASLUCIDO FEELS RUBY ROSE",
+  "description": "Tiene un acabado mate, una textura ultrafina y ligera que disimula pequeñas imperfecciones, dejando la piel seca y libre de grasa.",
+  "quantity": 65,
+  "price": 12920,
+  "category": "Face",
+  "imagepath": "73081o.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae83e98bcb884b7c5cfa4f"
+  },
+  "name": "BASE LÍQUIDA FEELS PIEL MEDIA RUBY ROSE",
+  "description": "La base de la línea FEELS proporciona una cobertura alta, ideal para corregir imperfecciones e igualar el tono de la piel, sin dejar una apariencia pesada. Tiene una textura de mousse dejando la piel con un toque aterciopelado. Está disponible en 17 tonos y es adecuada para todo tipo de piel.",
+  "quantity": 75,
+  "price": 23800,
+  "category": "Face",
+  "imagepath": "73083of1.png",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae84e68bcb884b7c5cfa50"
+  },
+  "name": "CORRECTOR LIQUIDO FEELS PIEL CLARA RUBY ROSE",
+  "description": "Corrector líquido de alta cobertura, textura cremosa y tacto seco, perfecto para corregir y camuflar pequeñas imperfecciones o iluminar los puntos altos del rostro, incluso los tonos más oscuros se pueden utilizar como contorno líquido.",
+  "quantity": 35,
+  "price": 15200,
+  "category": "Face",
+  "imagepath": "73081l-scaled.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae850b8bcb884b7c5cfa51"
+  },
+  "name": "BASE 1ST ( 6 TONOS ) ATENEA",
+  "description": "La base 1st Scene es de textura fluida, hidrata, minimiza poros, es de larga duración y cubre imperfecciones. Su cobertura es media alta y su acabado es semi mate, puedes construir la base a mayor cantidad mayor cobertura. Ideal para todo tipo de piel.",
+  "quantity": 41,
+  "price": 45000,
+  "category": "Face",
+  "imagepath": "04083gf1.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae853c8bcb884b7c5cfa52"
+  },
+  "name": "BASE ALTA COBERTURA SOFT MATE PIEL CLARA RUBY ROSE",
+  "description": "Una base desarrollada para contener la grasa de la piel y ocultar las imperfecciones, además de proporcionar un excelente acabado, alta cobertura y larga duración.",
+  "quantity": 65,
+  "price": 21000,
+  "category": "Face",
+  "imagepath": "73081t.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae866e8bcb884b7c5cfa53"
+  },
+  "name": "RUBOR NEW VIBE RUBY ROSE",
+  "description": "Es perfecto para darle ese color a tus mejillas e incluso llevarlo en tu bolso para retocar el look en cualquier momento, ya que su empaque es práctico y compacto. ¡Hay 5 colores diferentes para que te diviertas y para todos los tonos de piel!",
+  "quantity": 54,
+  "price": 12000,
+  "category": "Face",
+  "imagepath": "73084i-1.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae87288bcb884b7c5cfa54"
+  },
+  "name": "Base BB Cream Engol",
+  "description": "Base ligera de uso diario perfecta para todo tipo de piel, incluso pieles grasas. Una de las bases más vendidas durante años, por su precio y calidad la convierte en la favorita para looks mas naturales. 30ML trae bastante producto.",
+  "quantity": 44,
+  "price": 12000,
+  "category": "Face",
+  "imagepath": "010841f1 (1).jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae87598bcb884b7c5cfa55"
+  },
+  "name": "PRE PRIMER 29 ML RUBY ROSE",
+  "description": "Prep + Primer Feels Ruby Rose es perfecto para la preparación de la piel, ya que ayuda a cubrir las imperfecciones y ayuda a reducir la apariencia de los poros y las líneas finas. Su cobertura translúcida proporciona un efecto ligero y aterciopelado al tiempo que prolonga la duración del maquillaje.",
+  "quantity": 100,
+  "price": 22900,
+  "category": "Face",
+  "imagepath": "RubyRose.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae88728bcb884b7c5cfa56"
+  },
+  "name": "PATECABRA SILICONA 193-2 LULA",
+  "description": "Ideal para remover las callosidades que se forman en los bordes de las uñas y tiene repujador plástico. Material plástico .",
+  "quantity": 200,
+  "price": 1350,
+  "category": "Nails",
+  "imagepath": "71099l.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae896f8bcb884b7c5cfa57"
+  },
+  "name": "ALICATE CORTACUTICULA Y DEPILADOR LULA",
+  "description": "El producto contiene un alicate cortacuticula y un depilador",
+  "quantity": 20,
+  "price": 8500,
+  "category": "Nails",
+  "imagepath": "71099m.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae899e8bcb884b7c5cfa58"
+  },
+  "name": "Lima Desmanchadora Docena Generico",
+  "description": "Lima pequeña perfecta para los costados de las uñas.",
+  "quantity": 33,
+  "price": 13104,
+  "category": "Nails",
+  "imagepath": "350925.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae8a0f8bcb884b7c5cfa59"
+  },
+  "name": "Manoplas termicas ayurveda con 4 pindas c/u Changer",
+  "description": "Manoplas suave térmicas",
+  "quantity": 12,
+  "price": 120120,
+  "category": "Nails",
+  "imagepath": "810917.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae8a508bcb884b7c5cfa5a"
+  },
+  "name": "Botas termicas ayurveda con 6 pindas c/u Changer",
+  "description": "Botas suaves térmicas",
+  "quantity": 15,
+  "price": 153972,
+  "category": "Nails",
+  "imagepath": "810918.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae8b078bcb884b7c5cfa5b"
+  },
+  "name": "MASCARILLA DE AGUACATE PARA MANOS 35G BIOAQUA",
+  "description": "Hidrata y nutre, suaviza y da brillo, reduce la piel seca de las manos. Contiene manteca de karité hidrogenada e ingredientes de niacinomida. Reduce la deshidratación de la piel de las manos, aportando flexibilidad y brillo a la piel, cuidando suavemente las manos",
+  "quantity": 123,
+  "price": 10500,
+  "category": "Nails",
+  "imagepath": "19538.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae8b618bcb884b7c5cfa5c"
+  },
+  "name": "LIMA BRILLO 600/300 UNIDAD MQ40 ATENEA",
+  "description": "Lima especialmente fabricada para usar al término del servicio de la Manicure, se utiliza para darle brillo natural a las uñas tanto de mujeres como hombres.",
+  "quantity": 121,
+  "price": 1620,
+  "category": "Nails",
+  "imagepath": "04099g.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+},{
+  "_id": {
+    "$oid": "61ae8bd78bcb884b7c5cfa5d"
+  },
+  "name": "LIMA JUMBO PRO 100/180 S9RB-M ATENEA",
+  "description": "Limas desechables, con partículas que ofrecen una superficie abrasiva que lima las uñas de manera rápida y suave. 180/180",
+  "quantity": 33,
+  "price": 3060,
+  "category": "Nails",
+  "imagepath": "04099h.jpg",
+  "_class": "com.caina.tienda.api_tienda.models.ProductModel"
+}]
