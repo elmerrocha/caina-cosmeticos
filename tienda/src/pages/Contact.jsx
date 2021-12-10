@@ -5,7 +5,7 @@ function Contact() {
         <div className="caina-container">
             <div className="row">
                 <h1>Contáctanos</h1>
-                <form action="/" method="POST" id="formulario">
+                <form action="/" id="formulario">
                     <div className="mb-3">
                         <label form="exampleFormControlInput1" className="form-label">Nombre</label>
                         <input type="text" className="form-control" id="exampleFormControlInput1" placeholder="Nombre Apellido"/>

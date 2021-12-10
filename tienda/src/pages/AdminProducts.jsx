@@ -6,7 +6,7 @@ import * as ReactBootStrap from "react-bootstrap";
 
 function Products() {
     //Variables
-    const apiURI = "http://localhost:8080/products/";
+    const apiURI = "http://132.226.211.168:8080/products/";
     const [data, setData] = useState([]);
     const [editModal, setEditModal] = useState(false);
     const [deleteModal, setDeleteModal] = useState(false);

@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 function NailsProducts() {
     //Variables
-    const apiURI = "http://localhost:8080/products/category/Nails"
+    const apiURI = "http://132.226.211.168:8080/products/category/Nails"
     const [data, setData] = useState([]);
 
     //Methods

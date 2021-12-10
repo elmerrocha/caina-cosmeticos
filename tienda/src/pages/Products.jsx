@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 function Products() {
     //Variables
-    const apiURI = "http://localhost:8080/products/"
+    const apiURI = "http://132.226.211.168:8080/products/"
     const [data, setData] = useState([]);
 
     //Methods

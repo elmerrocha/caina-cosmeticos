@@ -38,6 +38,9 @@ function Header() {
                             <li className="nav-item">
                                 <Link className="nav-link active" to="/contact">Contáctanos</Link>
                             </li>
+                            <li className="nav-item">
+                                <Link className="nav-link active" to="/admin/products">Administrar</Link>
+                            </li>
                         </ul>
                     </div>
                 </div>

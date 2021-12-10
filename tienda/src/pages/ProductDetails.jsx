@@ -3,7 +3,7 @@ import axios from 'axios'
 
 function ProductDetails() {
     //Variables
-    const apiURI = "http://localhost:8080/products/"
+    const apiURI = "http://132.226.211.168:8080/products/"
     const [data, setData] = useState([]);
 
     //Methods
